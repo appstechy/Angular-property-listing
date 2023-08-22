@@ -6,9 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Project Screenshot](https://github.com/RinkuAppstechy/images/blob/main/property_listing.png)
 
 ## Project Requirements
-Front-end - Angular 
-Node version - 18.12.0  
-Package manager command used - npm  
+Front-end - Angular   
+Node version - 18.12.0    
+Package manager command used - npm    
 
 ## Development server
 
